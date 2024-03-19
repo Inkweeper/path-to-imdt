@@ -1,24 +1,16 @@
 ---
 layout: default
-title: Hello
+title: 落墨的日记本
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## 落墨的日记本
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+朋友，你好！欢迎来到我的日记站点。请随意浏览。
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+[我的itch主页](https://inkweeper.itch.io/)我会在这里发布小游戏！
 
-**Stop worrying about the style, focus on your writing.**
+[我的推特](https://twitter.com/Nightmaretugger)可能会用来分享些新鲜东西。
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+'联系我：hgyyzjs@qq.com'
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
