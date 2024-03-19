@@ -12,5 +12,5 @@ title: 落墨的日记本
 
 [我的推特](https://twitter.com/Nightmaretugger)可能会用来分享些新鲜东西。
 
-'联系我：hgyyzjs@qq.com'
+`联系我：hgyyzjs@qq.com`
 
