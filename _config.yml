@@ -59,9 +59,9 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  简历: /assets/resume.pdf
   
 
 # Add links for more focus here
 special_links:
-  "Search": https://duckduckgo.com
+  "点击这里成为二次元": https://mikanani.me/
